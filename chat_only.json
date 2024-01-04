@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "anyways5085",
+        "name": "chat only\n",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/678571936514572383\/1183399339431837706\/Screenshot_20231210_200544_Chrome.jpg?ex=6588318",
+        "overlay_alpha": 150,
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 870626304
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
